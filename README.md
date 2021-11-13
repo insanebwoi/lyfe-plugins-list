@@ -22,7 +22,7 @@
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Ear1cUkcdvW4idBD9jqmyj)
   <div align="center">
        
-<h2 align="center"> OFFICIAL PLUGINS</h1>
+<h2 align="center">➥ OFFICIAL PLUGINS</h1>
 
 <h4 align="center">  ⦼ send plugin </h1>
 
@@ -47,6 +47,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 <br />
 <h3 align="center">  ❒ TEXT TO PHOTO PLUGINS (LOGO MAKER)</h1>
+<br />
 <h4 align="center"> ⦼ E-photo logo maker </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 
@@ -57,7 +58,6 @@ https://gist.github.com/insanebwoi/ecc94966e4196565a6a87f355fa4c763
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : E photo logos <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
-
 <h4 align="center"> ⦼ Text pro logos </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
 
@@ -67,9 +67,7 @@ https://gist.github.com/https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Text pro logos <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
 <br />
-
 <h4 align="center"> ⦼ Text pro logos </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a> <br /> 
 ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
