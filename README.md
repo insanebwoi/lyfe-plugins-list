@@ -60,6 +60,51 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 <h4 align="center"> ⦼ Text pro logos </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
+
+```js
+https://gist.github.com/https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Text pro logos <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ⦼ Photoxy logo </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Photoxy logos <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+<h4 align="center"> ⦼ Picmaker </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/65328ac2a96a8c3f535515877c7f0e1c/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : picmaker logos <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+<br />
+
+<h3 align="center">  ❒ OTHER USE FULL PLUGINS </h1>
+<br />
+<h4 align="center"> ⦼ Croped Sticker</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a>
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make sticker by croping in ratio 1:1<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ⦼ Text pro logos </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
 
 ```js
 https://gist.github.com/https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e
@@ -78,5 +123,3 @@ https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Photoxy logos <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-<br />
