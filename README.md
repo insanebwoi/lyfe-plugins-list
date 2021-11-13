@@ -150,3 +150,12 @@ https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to create custamaisable trolls by your choise by url<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
+
+## ✆ Contact us
+We know there are a lot of plugin didnt include here <br /> 
+If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
+We geven a whatsapp link above join there and contact us <br /> 
+Is there is a problem in any plugin there <br />
+<br />
+<br />
+ ©Lyfe 00011 USER BOT 
