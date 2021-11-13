@@ -1,4 +1,6 @@
 <h1 align="center"> LYFE PLUGIN LISTS</h1>
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/CfZZVQW.jpeg" width="200" height="200"/>
 
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
@@ -26,7 +28,6 @@
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
 ```js
-LINK
 https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward 
