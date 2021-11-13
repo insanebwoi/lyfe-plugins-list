@@ -24,11 +24,22 @@
        
 <h2 align="center"> OFFICIAL PLUGINS</h1>
 
-<h4 align="center">  ⦼ send plugin </h1>
+<h3 align="center">  ⦼ send plugin </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
 ```js
 https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+
+<h3 align="center">  ⦼ m-forward verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+```js
+https://gist.githubusercontent.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 
+
+##### ⊡ Need edit this plugin for make customasable 
