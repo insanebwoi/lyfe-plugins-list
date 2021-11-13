@@ -22,3 +22,12 @@
        
 <h2 align="center"> OFFICIAL PLUGINS</h1>
 
+<h4 align="center">  ⦼ send plugin </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
+```js
+LINK
+https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 
