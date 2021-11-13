@@ -103,23 +103,60 @@ https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make sticker by croping in ratio 1:1<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
-<h4 align="center"> ⦼ Text pro logos </h1>
+<h4 align="center"> ⦼ Live time</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
 ```js
-https://gist.github.com/https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e
+https://gist.githubusercontent.com/insanebwoi/fb0f9f34e0b36c3b3adc0a3bda2bb8c0/raw
 ```
 
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Text pro logos <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time it is by this plugin <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
-<h4 align="center"> ⦼ Text pro logos </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a> <br /> 
+<h4 align="center"> ⦼ Clear </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/3c7fdd2b947bf8fabb9eb0467bb1ac53/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help to clear chat<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+
+
+
+<h3 align="center">  ❒ TROLL PLUGINS</h1>
+<br />
+<h4 align="center"> ⦼ Trollmaker v1</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
 
 ```js
-https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496
+https://gist.githubusercontent.com/insanebwoi/52bfee77544a45cd493f108dbef9977b/raw
 ```
 
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Photoxy logos <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make trolls include cat,dog trolls<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ⦼ Live time</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/insanebwoi/fb0f9f34e0b36c3b3adc0a3bda2bb8c0/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time it is by this plugin <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ⦼ Clear </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/3c7fdd2b947bf8fabb9eb0467bb1ac53/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help to clear chat<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
