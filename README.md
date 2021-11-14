@@ -115,6 +115,23 @@ https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make sticker by croping in ratio 1:1<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
+
+<h4 align="center"> ⦼ News & lytics</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+```js
+https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin gev you important news and lyrics of song <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+<h4 align="center"> ⦼ Sub title</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+```js
+https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin gev you Subtitle <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
 <h4 align="center"> ⦼ Live time</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
 ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
