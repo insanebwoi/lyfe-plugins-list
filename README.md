@@ -209,6 +209,13 @@ If you created a use full plugin and didnt here contact us to add here 🙂 afte
 We geven a whatsapp link above join there and contact us <br /> 
 Is there is a problem in any plugin there <br />
 ## ✆ Contact us
-<br />
+
+#### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <br />
+◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br /> <br />
+
+#### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ <br />
+『 ʟʏғᴇ sɪʀ 』 <br />
+『 ғᴀʀʜᴀɴ sɪʀ 』 <br />
+『 sʜᴀᴅᴏᴡ 』 <br />
 <br />
  ©Lyfe 00011 USER BOT 
