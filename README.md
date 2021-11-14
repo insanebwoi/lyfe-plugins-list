@@ -90,6 +90,18 @@ https://gist.githubusercontent.com/SPARK-SHADOW/65328ac2a96a8c3f535515877c7f0e1c
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 
 <br />
+<h4 align="center"> ⦼ Fancy ttp</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/37dc98cfbcbb45fb790deda1194e20d0
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : fancy ttp <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+<br />
+
 
 <h3 align="center">  ❒ OTHER USE FULL PLUGINS </h1>
 <br />
@@ -150,6 +162,19 @@ https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to create custamaisable trolls by your choise by url<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
+
+<h3 align="center">  ❒ PERSONAL PLUGINS </h1>
+
+<h4 align="center"> ⦼ Clear </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+ɴᴇɢᴇᴛɪᴠᴇ: If youre once start scam maybe its didnt stop so u want to remove this plugin <br />
 
 ### Need to add your plugin here?
 We know there are a lot of plugin didnt include here <br /> 
