@@ -204,6 +204,18 @@ https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ɴᴇɢᴇᴛɪᴠᴇ: If youre once start scam maybe its didnt stop so u want to remove this plugin <br />
 
+
+<h4 align="center"> ⦼ Fancy menu</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.github.com/SPARK-SHADOW/3c61545d8a2e132a0ecc71d35f04f322
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+
 ### Need to add your plugin here?
 We know there are a lot of plugin didnt include here <br /> 
 If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
