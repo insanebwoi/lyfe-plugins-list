@@ -1,6 +1,7 @@
 <h1 align="center"> LYFE PLUGIN LISTS</h1>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/CfZZVQW.jpeg" width="200" height="200"/>
+  <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g">
+
 
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
