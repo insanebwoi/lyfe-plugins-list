@@ -151,11 +151,12 @@ https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
 
-## ✆ Contact us
+### Need to add your plugin here?
 We know there are a lot of plugin didnt include here <br /> 
 If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
 We geven a whatsapp link above join there and contact us <br /> 
 Is there is a problem in any plugin there <br />
+## ✆ Contact us
 <br />
 <br />
  ©Lyfe 00011 USER BOT 
