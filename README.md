@@ -216,19 +216,22 @@ https://gist.github.com/SPARK-SHADOW/3c61545d8a2e132a0ecc71d35f04f322
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+<br />
+<br />
 
+## ▣ Need to add your plugin here?
+➤ We know there are a lot of plugin didnt include here <br /> 
+➤ If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
+➤ We geven a whatsapp link above join there and contact us <br /> 
+➤ Is there is a problem in any plugin there <br />
+<br />
 
-### Need to add your plugin here?
-We know there are a lot of plugin didnt include here <br /> 
-If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
-We geven a whatsapp link above join there and contact us <br /> 
-Is there is a problem in any plugin there <br />
 ## ✆ Contact us
 
-#### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <br />
+#### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
 ◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br /> <br />
 
-#### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ <br />
+#### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
 『 ʟʏғᴇ sɪʀ 』 <br />
 『 ғᴀʀʜᴀɴ sɪʀ 』 <br />
 『 sʜᴀᴅᴏᴡ 』 <br />
