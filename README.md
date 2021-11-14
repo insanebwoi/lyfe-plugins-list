@@ -27,6 +27,11 @@
 <h4 align="center">  ⦼ send plugin </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
+
+
+
+
+
 ```js
 https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
 ```
@@ -37,6 +42,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <h4 align="center">  ⦼ m-forward verify tick status </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
 ```js
 https://gist.githubusercontent.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0/raw
 ```
@@ -108,6 +114,8 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <h4 align="center"> ⦼ Croped Sticker</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a>
 
+
+
 ```js
 https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456/raw
 ```
@@ -118,6 +126,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h4 align="center"> ⦼ News & lytics</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
 ```js
 https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb
 ```
@@ -126,6 +135,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h4 align="center"> ⦼ Sub title</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
 ```js
 https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834
 ```
