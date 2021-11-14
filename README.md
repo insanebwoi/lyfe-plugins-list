@@ -192,7 +192,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h3 align="center">  ❒ PERSONAL PLUGINS </h1>
 
-<h4 align="center"> ⦼ Clear </h1>
+<h4 align="center"> ⦼ Scam typing&recording </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
 ```js
