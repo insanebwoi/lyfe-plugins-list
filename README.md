@@ -114,7 +114,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 <h3 align="center">  ❒ OTHER USE FULL PLUGINS </h1>
 <br />
-<h4 align="center"> ⦼ Croped Sticker</h1>
+<h4 align="center"> ⦼ Cropped Sticker</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a>
 
 
@@ -127,7 +127,7 @@ https://gist.githubusercontent.com/SPARK-SHADOW/7a03decfda97e6da7606880d9db85456
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
 
-<h4 align="center"> ⦼ News & lytics</h1>
+<h4 align="center"> ⦼ News & lyrics</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
 ```js
@@ -222,7 +222,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ## ▣ Need to add your plugin here?
 ➤ We know there are a lot of plugin didnt include here <br /> 
 ➤ If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
-➤ We geven a whatsapp link above join there and contact us <br /> 
+➤ We given a whatsapp link above join there and contact us <br /> 
 ➤ Is there is a problem in any plugin there <br />
 <br />
 
