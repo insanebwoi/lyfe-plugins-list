@@ -204,7 +204,7 @@ https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
-ɴᴇɢᴇᴛɪᴠᴇ: If youre once start scam maybe its didnt stop so u want to remove this plugin <br />
+.stop scam   to stop this in 20 sec <br />
 
 
 <h4 align="center"> ⦼ Fancy menu</h1>
