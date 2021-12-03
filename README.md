@@ -216,6 +216,16 @@ https://gist.github.com/SPARK-SHADOW/3c61545d8a2e132a0ecc71d35f04f322
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+<h4 align="center"> ⦼ Fancy menu V2 (with button) </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.github.com/SPARK-SHADOW/88842658bd66ad3ef0b9894f7e10116b
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with button with photo title menu <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 <br />
 
