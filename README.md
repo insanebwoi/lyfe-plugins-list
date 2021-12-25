@@ -32,9 +32,6 @@
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
 
 
-
-
-
 ```js
 https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
 ```
@@ -42,12 +39,13 @@ https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/r
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-<h4 align="center">  ⦼ m-forward verify tick status </h1>
+
+<h4 align="center">  ⦼ m-forward with fake preview status </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
 ```js
-https://gist.githubusercontent.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0/raw
+https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
@@ -55,6 +53,32 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ⊡ Need edit this plugin for make customasable 
 <br />
 <br />
+
+
+<h4 align="center">  ⦼ m-forward custamaisable verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin  <br/>
+• you can even edit all things in this plugin eg url,caption,duration etc <br/>
+**Use by Given format** <br/>
+```js
+Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
+
+
+
+
+
 <h3 align="center">  ❒ TEXT TO PHOTO PLUGINS (LOGO MAKER)</h1>
 <br />
 <h4 align="center"> ⦼ E-photo logo maker </h1>
@@ -239,11 +263,12 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ## ✆ Contact us
 
 #### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
-◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br /> <br />
+◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br />
+ᴄᴀɴ ʏᴏᴜ ɢɪᴠᴇ ᴍᴇ ᴀ sᴛᴀʀ ✫  ☻ <br /> <br />
 
 #### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
 『 ʟʏғᴇ sɪʀ 』 <br />
 『 ғᴀʀʜᴀɴ sɪʀ 』 <br />
 『 sʜᴀᴅᴏᴡ 』 <br />
 <br />
- ©Lyfe 00011 USER BOT 
+ ©Lyfe 00011 USER BOT
