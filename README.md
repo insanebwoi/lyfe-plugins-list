@@ -165,7 +165,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
 ```js
-https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0
+https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
