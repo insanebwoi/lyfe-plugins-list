@@ -160,6 +160,19 @@ https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin gev you important news and lyrics of song <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
+
+<h4 align="center"> ⦼ Anti view once </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+
+
+
 <h4 align="center"> ⦼ Sub title</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
