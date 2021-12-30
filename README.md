@@ -60,7 +60,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 
 ```js
-https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758/raw
+https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
