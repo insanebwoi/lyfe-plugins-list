@@ -76,6 +76,28 @@ Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 .
 
 
 
+<h4 align="center">  ⦼ m-forward random custamaisable duration & title verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/d7173ff5f8137e8bfc7d97ff61c41d49
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ Your choice on editing or not this plugin youcan custamaise it by changing url in the programme <br/>
+• you can even edit all things in this plugin exclude url  <br/>
+**Use by Given format** <br/>
+Example
+```js
+.crfor example;99;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
+
+
 
 
 
