@@ -94,7 +94,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ```js
 Example .zmfor caption;head;body;99;99999;https://i.imgur.com/BiLC1Ik.jpeg;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
 ```
-NB : PRICE TAG MUST ABOVE 100000 = ₹1000.00 <br/>
+NB : PRICE TAG MUST ABOVE 100000 = ₹100.00 <br/>
      DURATION 100 = 1:40 sec 
 <br />
 <br />
