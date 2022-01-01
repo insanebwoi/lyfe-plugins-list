@@ -76,6 +76,35 @@ Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 .
 
 
 
+
+
+<h4 align="center">  ⦼ m-forward custamaisable verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/e777f5f991fbead1f8e488b6e0287f44
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward with media preview <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin on github  <br/>
+• you can even edit all things in this plugin eg url,caption,head,body,duration,price,url,url2 etc <br/>
+**Use by Given format** <br/>
+```js
+Example .zmfor caption;head;body;99;99999;https://i.imgur.com/BiLC1Ik.jpeg;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
+```
+NB : PRICE TAG MUST ABOVE 100000 = ₹1000.00 <br/>
+     DURATION 100 = 1:40 sec 
+<br />
+<br />
+
+
+
+
+
+
+
 <h4 align="center">  ⦼ m-forward random custamaisable duration & title verify tick status </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
