@@ -91,9 +91,12 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ⊡ No Need edit this plugin on github  <br/>
 • you can even customize all things in this plugin eg url,caption,head,body,duration,price,url,url2 etc <br/>
 **Use by Given format** <br/>
+Example 
+
 ```js
-Example .zmfor caption;head;body;99;99999;https://i.imgur.com/BiLC1Ik.jpeg;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
+.zmfor ᴇxᴀᴍᴩʟᴇ ꜰᴏʀ ᴢᴍꜰᴏʀ;ᴍꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀ ᴩʀᴇᴠɪᴇᴡ ᴡɪᴛʜ ᴄᴜꜱᴛᴀᴍᴀɪꜱᴀʙʟᴇ ᴀᴅᴇᴅᴅ ᴛᴏ ᴩʟᴜɢɪɴ ʟɪꜱᴛ✔️;ᴩʟᴇᴀꜱᴇ ɢᴏ ᴀɴᴅ ᴄʜᴇᴄᴋ🔛;100;2022000;https://www.instagram.com/tv/CX8_LOXByX3/?utm_medium=copy_link;https://i.imgur.com/uLIOJBs.jpeg;https://i.imgur.com/F7KxLWv.jpeg;0@s.whatsapp.net
 ```
+
 NB : PRICE TAG MUST ABOVE 100000 = ₹100.00 <br/>
      DURATION 100 = 1:40 sec 
 <br />
