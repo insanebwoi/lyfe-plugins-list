@@ -298,11 +298,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 .stop scam   to stop this in 20 sec <br />
 
 
-<h4 align="center"> ⦼ Fancy menu</h1>
+<h4 align="center"> ⦼ Fancy menu v3 (updated)  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
 ```js
-https://gist.github.com/SPARK-SHADOW/3c61545d8a2e132a0ecc71d35f04f322
+https://gist.github.com/SPARK-SHADOW/2633547513e2fa88e9af5296961598b2
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
