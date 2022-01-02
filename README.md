@@ -259,6 +259,20 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 
 
+<h4 align="center"> ⦼ Custamaisable list </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://gist.github.com/Whatsden">Whatsden</a> <br /> 
+
+```js
+https://gist.github.com/Whatsden/02858adcf132ceac66b847d232ba08f8
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help to create list esly by geven example <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+Example geven below
+```js
+.buttlist Message,click here,heading,list1,list2,list3
+``` 
+<br/>
 
 <h3 align="center">  ❒ TROLL PLUGINS</h1>
 <br />
