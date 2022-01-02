@@ -284,6 +284,21 @@ Example geven below
 ``` 
 <br/>
 
+<h4 align="center"> ⦼ Custamaisable button </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://gist.github.com/Whatsden">Whatsden</a> <br /> 
+
+```js
+https://gist.github.com/Whatsden/caf6748e73b29a485ac840fee9529321
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help to create button esly by geven example <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+Example geven below
+```js
+.Button title;footer;button1;button2
+``` 
+
+
 
 <h3 align="center">  ❒ TROLL PLUGINS</h1>
 <br />
