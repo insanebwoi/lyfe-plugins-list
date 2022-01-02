@@ -272,7 +272,18 @@ Example geven below
 ```js
 .buttlist Message,click here,heading,list1,list2,list3
 ``` 
+
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.github.com/lyfe00011/81196e46a45f02d3d54d26b9b929d342
+```
+Example geven below 
+```js
+.list title,buttonName,listItem1,listItem2,...
+``` 
 <br/>
+
 
 <h3 align="center">  ❒ TROLL PLUGINS</h1>
 <br />
