@@ -361,11 +361,8 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 
 ## ▣ Need to add your plugin here?
-➤ We know there are a lot of plugin didnt include here <br /> 
-➤ If you created a use full plugin and didnt here contact us to add here 🙂 after checking the use and scan <br /> 
-➤ We given a whatsapp link above join there and contact us <br /> 
-➤ Is there is a problem in any plugin there <br />
-<br />
+## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=255&lines=We+know+there+are+a+lot+of+plugin;didnt+include+here+...;If+you+created+a+use+full+plugin;and+didnt+here+???;Contact+us+to+add+here+🙂;After+checking+the+use+and+scan;We+given+a+whatsapp+link+above;join+there+and+contact+us;If+there+is+a+problem+in+any+plugin;there+please+contact+us+......)](https://git.io/typing-svg) <br/>
+<br/>
 
 ## ✆ Contact us
 
