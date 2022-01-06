@@ -40,7 +40,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 
-<h4 align="center">  ⦼ m-forward with fake preview status </h1>
+<h4 align="center">  ⦼ m-forward with fake preview status (.mforward) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
@@ -55,7 +55,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 <br />
 
 
-<h4 align="center">  ⦼ m-forward custamaisable verify tick status </h1>
+<h4 align="center">  ⦼ m-forward custamaisable verify tick status (.cmfor)  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 
@@ -78,7 +78,7 @@ Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 .
 
 
 
-<h4 align="center">  ⦼ m-forward media preview with fully custamaisable </h1>
+<h4 align="center">  ⦼ m-forward media preview with fully custamaisable (.zmfor) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 
