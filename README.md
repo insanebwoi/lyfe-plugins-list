@@ -83,7 +83,7 @@ Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 .
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
 
 ```js
-https://gist.github.com/insanebwoi/e777f5f991fbead1f8e488b6e0287f44
+https://gist.github.com/insanebwoi/3d3f705f5b9e6f38e0de47745530a312
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward with media preview <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
