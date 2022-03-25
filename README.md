@@ -375,4 +375,8 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 『 ғᴀʀʜᴀɴ sɪʀ 』 <br />
 『 sʜᴀᴅᴏᴡ 』 <br />
 <br />
- ©Lyfe 00011 USER BOT
+<h5> ©Lyfe 00011 USER BOT <br>
+ Contains copy right scheme 2021-23 <br>
+All released source code should by default be licensed under Apache 2.0 License. Exceptions may be made to this policy on a case-by-case basis.
+<h6> Copyright (C) 2020-2022 CERN <br>
+Copyright (C) 2022 Insane boy 
